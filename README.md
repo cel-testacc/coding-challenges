@@ -1,5 +1,5 @@
 # coding-challenges
-This is made to store my pitiful attempts at solving the coding problems on the coding challenges blog.
+This is made to store my solutions to the coding problems on the coding challenges blog.
 
 ## wc tool
 The first challenge is to implement your own version of Linux's wc CLI tool.
